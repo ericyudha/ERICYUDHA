@@ -44,7 +44,3 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/perwirayudhaeric#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/perwirayudhaeric#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
