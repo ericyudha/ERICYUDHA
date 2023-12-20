@@ -10,8 +10,8 @@
 ## Education:
 
 #### 1. [Creative Media State Polytechnic](https://polimedia.ac.id/) | Bachelor of Multimedia Engineering Technology | Jakarta `2021-Now`
-   - Chairman of Student Creative Program
-   - Chairman of Entrepreneurial Student Program
+   - Leader of Student Creative Program
+   - Leader of Entrepreneurial Student Program
  #### 2. [SMA N 106 Jakarta](http://www.smanegeri106jakarta.sch.id/) | MIPA | Jakarta `2017-2020`
    - Chief of Photography
    - Committee of Performing Arts
